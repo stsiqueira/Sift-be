@@ -1284,6 +1284,12 @@ const data = [
 		"instructions": "This item can be disposed of in your Garbage bin. To help prevent the spread of COVID-19 and protect our waste collection staff, all garbage must be placed in plastic bags and tied securely before putting in your Garbage bin.Do NOT place loose or un-bagged waste in the Garbage bin. Thanks for your cooperation. "
 	},
 	{
+		"id": "cup_with_plastic_lid_and_paper_sleeve",
+		"name": "Cup with plastic lid and paper sleeve",
+		"category": "blue-box paper-bin",
+		"instructions": "This item has different materials, you have to separate them and out in different bins."
+	},
+	{
 		"id": "curling_iron",
 		"name": "Curling iron",
 		"category": "recycling-center",
@@ -1640,6 +1646,12 @@ const data = [
 	{
 		"id": "electric_shaver",
 		"name": "Electric shaver",
+		"category": "recycling-center",
+		"instructions": "This item as well as other small appliances and power tools can be dropped for free as part of ElectroRecycle’s ‘Take-Back’ recycling program. Visit Electrocycle for program details, including a full list of accepted items and drop-off locations. If the item is still in good working condition, consider selling it, giving it to family or friends, or donating it to a local charity. Contact the BC Recycling Hotline for local donation options: 604-732-9253. "
+	},
+	{
+		"id": "electronics",
+		"name": "Electronics",
 		"category": "recycling-center",
 		"instructions": "This item as well as other small appliances and power tools can be dropped for free as part of ElectroRecycle’s ‘Take-Back’ recycling program. Visit Electrocycle for program details, including a full list of accepted items and drop-off locations. If the item is still in good working condition, consider selling it, giving it to family or friends, or donating it to a local charity. Contact the BC Recycling Hotline for local donation options: 604-732-9253. "
 	},
@@ -2076,14 +2088,8 @@ const data = [
 		"instructions": "This item can be disposed of in your Garbage bin. To help prevent the spread of COVID-19 and protect our waste collection staff, all garbage must be placed in plastic bags and tied securely before putting in your Garbage bin.Do NOT place loose or un-bagged waste in the Garbage bin. Thanks for your cooperation. "
 	},
 	{
-		"id": "fruit_cooked",
-		"name": "Fruit (cooked)",
-		"category": "compost-bin",
-		"instructions": "This item can be placed in your Green Bin. If you live in an apartment or condominium or operate a business that does not have City of Vancouver Green Bin service, contact your building manager or landlord for options or go to vancouver.ca/greenbin "
-	},
-	{
-		"id": "fruit_uncooked",
-		"name": "Fruit (uncooked)",
+		"id": "fruit_raw",
+		"name": "Fruit",
 		"category": "compost-bin",
 		"instructions": "This item can be placed in your Green Bin. If you live in an apartment or condominium or operate a business that does not have City of Vancouver Green Bin service, contact your building manager or landlord for options or go to vancouver.ca/greenbin "
 	},
@@ -2250,10 +2256,22 @@ const data = [
 		"instructions": "This item can be placed in your yellow bag (single family homes) or Mixed Paper cart (multi-family sites).    "
 	},
 	{
+		"id": "glass",
+		"name": "Glass",
+		"category": "grey-box",
+		"instructions": "This item can be placed in your Grey Box (single family homes) or in the cart labelled glass bottles + jars (multi-family sites).  "
+	},
+	{
 		"id": "glass_bottles_and_jars",
 		"name": "Glass bottles and jars",
 		"category": "grey-box",
 		"instructions": "This item can be placed in your Grey Box (single family homes) or in the cart labelled glass bottles + jars (multi-family sites).  "
+	},
+	{
+		"id": "glass_bottle_with_plastic_lid",
+		"name": "Glass bottle with plastic lid",
+		"category": "blue-box grey-box",
+		"instructions": "This item has different materials, you have to separate them and out in different bins."
 	},
 	{
 		"id": "glass_cleaner_plastic_bottle",
@@ -5112,14 +5130,8 @@ const data = [
 		"instructions": "This item, as well as other electronic devices, can be dropped off for free as part of Encorp’s Return-It Electronics ‘Take-Back’ recycling program. Other accepted items include  TVs, computers, audio, video and gaming equipment, and musical instruments. Visit Return-It Electronics for program details, including a full list of accepted items and drop off locations. If the item is still in good working condition, consider donating it to a local charity. Contact the RCBC Recycling Hotline for local donation options: 604-732-9253. "
 	},
 	{
-		"id": "vegetables_cooked",
-		"name": "Vegetables (cooked)",
-		"category": "compost-bin",
-		"instructions": "This item can be placed in your Green Bin. If you live in an apartment or condominium or operate a business that does not have City of Vancouver Green Bin service, contact your building manager or landlord for options or go to vancouver.ca/greenbin "
-	},
-	{
-		"id": "vegetables_uncooked",
-		"name": "Vegetables (uncooked)",
+		"id": "vegetable_raw",
+		"name": "Vegetable",
 		"category": "compost-bin",
 		"instructions": "This item can be placed in your Green Bin. If you live in an apartment or condominium or operate a business that does not have City of Vancouver Green Bin service, contact your building manager or landlord for options or go to vancouver.ca/greenbin "
 	},

@@ -856,6 +856,10 @@ const names = [
 		"name": "Cups (compostable)"
 	},
 	{
+		"id": "cup_with_plastic_lid_and_paper_sleeve",
+		"name": "Cup with plastic lid and paper sleeve"
+	},
+	{
 		"id": "curling_iron",
 		"name": "Curling iron"
 	},
@@ -1094,6 +1098,10 @@ const names = [
 	{
 		"id": "electric_shaver",
 		"name": "Electric shaver"
+	},
+	{
+		"id": "electronics",
+		"name": "Electronics"
 	},
 	{
 		"id": "electronic_air_cleaner",
@@ -1384,12 +1392,8 @@ const names = [
 		"name": "Fruit and Vegetable stickers"
 	},
 	{
-		"id": "fruit_cooked",
-		"name": "Fruit (cooked)"
-	},
-	{
-		"id": "fruit_uncooked",
-		"name": "Fruit (uncooked)"
+		"id": "fruit_raw",
+		"name": "Fruit"
 	},
 	{
 		"id": "furnace_filter_disposable",
@@ -1500,8 +1504,16 @@ const names = [
 		"name": "Gift wrap (paper)"
 	},
 	{
+		"id": "glass",
+		"name": "Glass"
+	},
+	{
 		"id": "glass_bottles_and_jars",
 		"name": "Glass bottles and jars"
+	},
+	{
+		"id": "glass_bottle_with_plastic_lid",
+		"name": "Glass bottle with plastic lid"
 	},
 	{
 		"id": "glass_cleaner_plastic_bottle",
@@ -3404,12 +3416,8 @@ const names = [
 		"name": "VCR or DVD player"
 	},
 	{
-		"id": "vegetables_cooked",
-		"name": "Vegetables (cooked)"
-	},
-	{
-		"id": "vegetables_uncooked",
-		"name": "Vegetables (uncooked)"
+		"id": "vegetable_raw",
+		"name": "Vegetable"
 	},
 	{
 		"id": "vellum",
