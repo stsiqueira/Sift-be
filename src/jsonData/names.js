@@ -1096,6 +1096,10 @@ const names = [
 		"name": "Electric shaver"
 	},
 	{
+		"id": "electronics",
+		"name": "Electronics"
+	},
+	{
 		"id": "electronic_air_cleaner",
 		"name": "Electronic air cleaner"
 	},
@@ -1498,6 +1502,10 @@ const names = [
 	{
 		"id": "gift_wrap_paper",
 		"name": "Gift wrap (paper)"
+	},
+	{
+		"id": "glass",
+		"name": "Glass"
 	},
 	{
 		"id": "glass_bottles_and_jars",
