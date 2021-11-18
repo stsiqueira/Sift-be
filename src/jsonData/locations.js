@@ -10,8 +10,7 @@ const locations = [
 			"address_1": "2220 Cambie Street",
 			"phone_1": "(604) 638-4966",
 			"categories": ["Electronics"]
-		},
-		"label": "a"
+		}
 	},
 	{
 		"geo": {
@@ -24,8 +23,7 @@ const locations = [
 			"address_1": "798 Granville Street",
 			"phone_1": "(604) 683-2502",
 			"categories": ["Electronics"]
-		},
-		"label": "b"
+		}
 	},
 	{
 		"geo": {
@@ -38,8 +36,7 @@ const locations = [
 			"address_1": "8133 Ontario Street",
 			"phone_1": "(604) 326-3350",
 			"categories": ["Electronics"]
-		},
-		"label": "c"
+		}
 	},
 	{
 		"geo": {
@@ -52,8 +49,7 @@ const locations = [
 			"address_1": "2605 Kaslo Street",
 			"phone_1": "(604) 255-4243",
 			"categories": ["Electronics"]
-		},
-		"label": "d"
+		}
 	},
 	{
 		"geo": {
@@ -66,8 +62,7 @@ const locations = [
 			"address_1": "2286 Ontario Street",
 			"phone_1": "(604) 874-0367",
 			"categories": ["Electronics", "Plastics", "Glass"]
-		},
-		"label": "e"
+		}
 	},
 	{
 		"geo": {
@@ -80,8 +75,7 @@ const locations = [
 			"address_1": "710 Granville Street",
 			"phone_1": "(604) 448-4802",
 			"categories": ["Plastics"]
-		},
-		"label": "f"
+		}
 	},
 	{
 		"geo": {
@@ -94,8 +88,7 @@ const locations = [
 			"address_1": "525 West Broadway",
 			"phone_1": "(604) 448-4804",
 			"categories": ["Plastics"]
-		},
-		"label": "g"
+		}
 	},
 	{
 		"geo": {
@@ -108,8 +101,7 @@ const locations = [
 			"address_1": "2585 East Hastings Street",
 			"phone_1": "(604) 251-1977",
 			"categories": ["Plastics"]
-		},
-		"label": "h"
+		}
 	},
 	{
 		"geo": {
@@ -122,8 +114,7 @@ const locations = [
 			"address_1": "2091 W. 42nd Avenue",
 			"phone_1": "(604) 448-4810",
 			"categories": ["Plastics"]
-		},
-		"label": "i"
+		}
 	},
 	{
 		"geo": {
@@ -136,8 +127,7 @@ const locations = [
 			"address_1": "1187 Robson Street",
 			"phone_1": "(604) 448-4819",
 			"categories": ["Plastics"]
-		},
-		"label": "j"
+		}
 	},
 	{
 		"geo": {
@@ -150,8 +140,7 @@ const locations = [
 			"address_1": "3328 Kingsway Avenue",
 			"phone_1": "(604) 448-4828",
 			"categories": ["Plastics"]
-		},
-		"label": "k"
+		}
 	},
 	{
 		"geo": {
@@ -164,8 +153,7 @@ const locations = [
 			"address_1": "1650 Davie Street",
 			"phone_1": "(604) 448-4850",
 			"categories": ["Plastics"]
-		},
-		"label": "l"
+		}
 	},
 	{
 		"geo": {
@@ -178,8 +166,7 @@ const locations = [
 			"address_1": "5639 Victoria Drive",
 			"phone_1": "(604) 448-4853",
 			"categories": ["Plastics"]
-		},
-		"label": "m"
+		}
 	},
 	{
 		"geo": {
@@ -192,8 +179,7 @@ const locations = [
 			"address_1": "2230 West Broadway",
 			"phone_1": "(604) 448-4874",
 			"categories": ["Plastics"]
-		},
-		"label": "n"
+		}
 	},
 	{
 		"geo": {
@@ -206,8 +192,7 @@ const locations = [
 			"address_1": "351 Abbott Street",
 			"phone_1": "(604) 448-4878",
 			"categories": ["Plastics"]
-		},
-		"label": "o"
+		}
 	},
 	{
 		"geo": {
@@ -220,8 +205,7 @@ const locations = [
 			"address_1": "1622 Salt Street",
 			"phone_1": "(604) 448-4882",
 			"categories": ["Plastics"]
-		},
-		"label": "p"
+		}
 	},
 	{
 		"geo": {
@@ -234,8 +218,7 @@ const locations = [
 			"address_1": "1856 Powell Street",
 			"phone_1": "(604) 253-4987",
 			"categories": ["Plastics", "Electronics", "Glass"]
-		},
-		"label": "q"
+		}
 	},
 	{
 		"geo": {
@@ -248,8 +231,7 @@ const locations = [
 			"address_1": "960 Evans Avenue",
 			"phone_1": "(855) 701-7171",
 			"categories": ["Plastics", "Electronics", "Glass"]
-		},
-		"label": "r"
+		}
 	},
 	{
 		"geo": {
@@ -262,8 +244,7 @@ const locations = [
 			"address_1": "261 East 12th Ave.",
 			"phone_1": "(604) 874-4721",
 			"categories": ["Electronics"]
-		},
-		"label": "s"
+		}
 	},
 	{
 		"geo": {
@@ -276,8 +257,7 @@ const locations = [
 			"address_1": "34 E 69th Ave",
 			"phone_1": "(604) 325-3370",
 			"categories": ["Plastics", "Glass", "Electronics"]
-		},
-		"label": "t"
+		}
 	},
 	{
 		"geo": {
@@ -290,8 +270,7 @@ const locations = [
 			"address_1": "2639 Kingsway",
 			"phone_1": "(604) 434-0707",
 			"categories": ["Plastics", "Electronics", "Glass"]
-		},
-		"label": "u"
+		}
 	},
 	{
 		"geo": {
@@ -304,8 +283,7 @@ const locations = [
 			"address_1": "1253 West 75th Ave.",
 			"phone_1": "(604) 263-8809",
 			"categories": ["Plastics", "Electronics", "Glass"]
-		},
-		"label": "v"
+		}
 	}
 ]
 
