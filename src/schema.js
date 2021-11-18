@@ -56,6 +56,7 @@ const schema = buildSchema(`
 		items: [Item]
 		profile(email: String!): Profile
 		locations: [LocationData]
+		locationByCategories(categories: [String]!): [LocationData]
   }
 `);
 
@@ -72,6 +73,17 @@ const root = {
 	},
 	locations: () => {
 		return locationsJSON
+	},
+	locationByCategories: (args) => {
+		let locationsArray = [];
+		let categories = args.categories;
+		locationsJSON.forEach(l => {
+			let locationCategories = l.location.categories;
+			if(categories.every(r => locationCategories.includes(r))){
+				locationsArray.push(l)
+			}
+		});
+		return locationsArray
 	}
 };
 
